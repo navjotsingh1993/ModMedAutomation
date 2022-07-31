@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-31T15:16:15 IST" name="Default suite" finished-at="2022-07-31T15:16:25 IST" duration-ms="9829">
+    <groups>
+    </groups>
+    <test started-at="2022-07-31T15:16:15 IST" name="Default test" finished-at="2022-07-31T15:16:25 IST" duration-ms="9829">
+      <class name="Academy.TestCase">
+        <test-method is-config="true" signature="initialize()[pri:0, instance:Academy.TestCase@42a9e5d1]" started-at="2022-07-31T15:16:15 IST" name="initialize" finished-at="2022-07-31T15:16:16 IST" duration-ms="1331" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initialize -->
+        <test-method signature="ValidatingAppointmentConfirmation()[pri:0, instance:Academy.TestCase@42a9e5d1]" started-at="2022-07-31T15:16:16 IST" name="ValidatingAppointmentConfirmation" finished-at="2022-07-31T15:16:25 IST" duration-ms="8394" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ValidatingAppointmentConfirmation -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Academy.TestCase@42a9e5d1]" started-at="2022-07-31T15:16:25 IST" name="tearDown" finished-at="2022-07-31T15:16:25 IST" duration-ms="68" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Academy.TestCase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
